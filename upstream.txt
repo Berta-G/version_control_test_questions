@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words.
+The "upstream" remote is usually used to keep up to date a forked repo. After forking a github repo and have it cloned it to you machine, if any change is made to the original repo it can be pulled using an "upstream" remote.
