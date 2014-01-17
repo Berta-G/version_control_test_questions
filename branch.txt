@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words.
+A branch is an independent "line" of version control of a repo. it points to a specific commit of the master (or other) branch, and from that point onwards the branch is independent, the commits or changes made here won't affect any other branch until, if wanted, is merged with another branch. 
